@@ -1,0 +1,419 @@
+
+.navbar {
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(12, 86, 12);
+    height:109px;
+    
+}
+.middle img{
+    width:95px;
+   padding-left: 340px;
+}
+.right {
+    font-size:18px;
+    margin-right: 40px;
+    justify-content:space-between;
+}
+.right i{
+    color:white;
+}
+.right a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-weight: 600;
+    
+}
+
+   
+.left {
+    margin-left:40px;
+    
+}
+.left a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.left i{
+    color: white;
+    
+}
+.bar{
+    font-size: 17px;
+    font-family: inherit;
+}
+
+.right i{
+    padding-left:40px;
+}
+.video{
+    position: relative;
+}
+#background-video {
+    width:100%;
+    position:relative;
+}
+.thecollection{
+    color:white;
+    position:absolute;
+    font-size:25px;
+    margin-top: -450px;
+    margin-left:600px;
+}
+.Thecollection h2{}
+.Rolexwatchesz {
+    position:absolute;
+    margin-top: -450px;
+    margin-left:500px;
+    font-size:45px;
+    color:white;
+
+    
+}
+.Rolexwatchesz h2{}
+
+.Newwatches2024 a{
+    position:absolute;
+    margin-top: -100px;
+    margin-left:650px;
+    font-size:20px;
+    color:white;
+    text-decoration: none;
+}
+.oneblock{
+
+    
+}
+.second{
+    display:flex;
+}
+.firsthalfz{
+    width:50%;
+    margin-left:100px;
+
+    
+}
+.secondhalf{
+    width:50%;
+    
+}
+.firsthalfz h2{
+    font-size:30px;
+
+}
+.secondhalf h4{
+    margin-left:100px;
+    }
+    .findnow{
+        text-align:center;
+        margin-left:350px;
+        
+    }
+    .findnow a{
+        text-decoration: none;
+        color:green;
+        font-size:20px;
+        font-weight:bold;
+
+    }
+    .findnow a:hover {
+        color:black;
+    }
+    .fouricons {
+        width:100%;
+        justify-content:center;
+        display:flex;
+       
+    }
+    .all{
+        text-decoration: none;
+        
+        padding:0px 30px;
+        font-size:21px;
+        color:black;
+        
+       
+    }
+    .configure {
+       
+        
+        right:40px;
+        
+        position:absolute;
+        padding:15px 30px 15px 30px;
+        background-color: rgb(6, 75, 6);
+        color:white;
+        border-radius:60px;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 400;
+        
+    }
+    .fouricons{
+        align-items:end;
+    }
+    .fouricons :hover{
+        cursor:pointer;
+        color:green;
+    }
+    .watches img{
+        width:100%;
+    }
+    .watcheszz {
+        
+
+    }
+   .datejust{
+    margin-top:-200px;
+    margin-left: 100px;
+    
+   
+    
+
+   }
+   .datejust a{
+    font-size: 36px;
+    color: rgb(74, 27, 27);
+    font-weight: bold;
+    text-decoration: none;
+
+   }
+   .firsthalf h2{
+    margin-left: 1px;
+   }
+   .discovermore a{
+    font-size: 25px;
+    font-weight: bold;
+    transition:opacity 0.15s;
+    transition: color 1s;
+   }
+   .discovermore a:hover {
+    transition-delay: 0.15s;
+    opacity:1;
+    color: rgb(203, 18, 18);
+
+   }
+   .home {
+    margin-top: 100px;
+    margin-left: 100px;
+    display:flex;
+    display: inline-block;
+    
+    
+    
+   }
+   .home a{
+    text-decoration: none;
+    color:gray;
+   }
+   .rolexcollection {
+    margin-top:0px;
+    margin-left:15px;
+    display: inline-block;
+
+    
+    
+    
+   }
+   
+
+   .share{
+    margin-left: 100px;
+    display:flex;
+   }
+   .share a{
+    text-decoration: none;
+    color:black;
+   }
+   .aftershare i{
+    padding-left:30px;
+    display:inline-block;
+
+   }
+   .logo img{
+    width: 140px;
+    margin-left:100px;
+    margin-top:100px;
+    display: inline-block;
+    margin-bottom: -100px;
+    
+   
+
+   }
+   
+   
+   .logo{
+    
+    display: flex;
+    
+    
+
+
+   }
+   .service{
+   
+    display:inline-block;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+
+    
+    
+   
+   }
+   .Rolexwatches{
+    
+    margin-left:350px;
+    
+    
+    
+    
+    
+
+
+   }
+   .Rolexwatches  h3{
+    
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   .Rolexwatches ul{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+    
+    
+   }
+   .Rolexwatches ul li{
+        margin-left: -40px;
+   }
+   .Thecollection{
+    margin-top:40px;
+
+   }
+   .Thecollection h3{
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   .WatchMaking{
+    margin-top:40px;
+   }
+   .WatchMaking h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .RolexandSports{
+    
+    margin-left:200px;
+    
+   
+    
+
+   }
+   .RolexandSports h3{
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   .RolexandSports ul{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   .RolexandSports ul li{
+    margin-left: -40px;
+   }
+   .Perpetualinitiatives{
+
+    margin-top:40px;
+   }
+   .Perpetualinitiatives h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .Perpetualinitiatives ul{
+    list-style-type: none;
+
+   }
+   .AboutRolex{
+    margin-top:40px;
+   }
+   .AboutRolex h3{
+    font-family: Arial, Helvetica, sans-serif;
+   
+   }
+   .BuyingaRolex{
+
+    margin-top:40px;
+   }
+   .BuyingaRolex h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .CareandServicing{
+    margin-top:40px;
+   }
+   .CareandServicing h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .Services{
+    
+    margin-left:100px;
+    
+    
+    
+
+   }
+   .Services h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .Services ul{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .Services ul li{
+    margin-left: -40px;
+   }
+   .LegalNotice{
+    margin-top:40px;
+   }
+   .LegalNotice h3{
+    font-family: Arial, Helvetica, sans-serif;
+
+   }
+   .Accessibility{
+    margin-top:40px;
+
+   }
+   .Accessibility h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   .Media{
+    margin-top:40px;
+   }
+   .Media h3{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .officialchannels{
+    margin-top:40px;
+    
+   }
+   .officialchannels h3{
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   .officialchannels i{
+    display:block;
+    line-height:30px;
+   }
+   .finallogo i{
+    margin: 10px;
+   }
+   .finallogo span{
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
